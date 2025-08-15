@@ -1,0 +1,13 @@
+# extra domains that seem to break websites with admiral
+
+secure-dcr.imrworldwide.com
+static.criteo.net
+px.ads.linkedin.com
+secure-sdk.imrworldwide.com
+prebid-a.rubiconproject.com
+prebid-a.rubiconproject.net.akadns.net
+www.googletagmanager.com
+metrics.brightcove.com
+tpc.googlesyndication.com
+aax.amazon-adsystem.com
+eus.rubiconproject.com
