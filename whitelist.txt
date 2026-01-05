@@ -1,4 +1,10 @@
-# extra domains that seem to break websites with admiral
+# extra domains that seem to break websites with Admiral
+
+# --- Admiral (ad-block detection) ---
+admiral.com
+getadmiral.com
+cdn.getadmiral.com
+delivery.getadmiral.com
 
 secure-dcr.imrworldwide.com
 static.criteo.net
@@ -11,3 +17,34 @@ metrics.brightcove.com
 tpc.googlesyndication.com
 aax.amazon-adsystem.com
 eus.rubiconproject.com
+
+
+# --- OMDb (IMDb ratings, optional but standard) ---
+omdbapi.com
+
+# --- OpenSubtitles ---
+(^|\.)rest\.opensubtitles\.org$
+(^|\.)api\.opensubtitles\.org$
+
+# --- Trakt ---
+(^|\.)api\.trakt\.tv$
+(^|\.)trakt\.tv$
+
+# --- TMDB ---
+(^|\.)api\.themoviedb\.org$
+(^|\.)image\.tmdb\.org$
+(^|\.)themoviedb\.org$
+
+# --- TVDB ---
+(^|\.)api\.thetvdb\.com$
+(^|\.)artworks\.thetvdb\.com$
+(^|\.)thetvdb\.com$
+
+# --- Fanart.tv ---
+(^|\.)fanart\.tv$
+(^|\.)assets\.fanart\.tv$
+(^|\.)webservice\.fanart\.tv$
+
+# --- Amazon CDN (IMDb posters/rating overlays) ---
+(^|\.)m\.media-amazon\.com$
+(^|\.)images-amazon\.com$
