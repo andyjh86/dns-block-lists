@@ -1,23 +1,6 @@
-# extra domains that seem to break websites with Admiral
-
-# --- Admiral (ad-block detection) ---
-admiral.com
-getadmiral.com
-cdn.getadmiral.com
-delivery.getadmiral.com
-
-secure-dcr.imrworldwide.com
-static.criteo.net
-px.ads.linkedin.com
-secure-sdk.imrworldwide.com
-prebid-a.rubiconproject.com
-prebid-a.rubiconproject.net.akadns.net
-www.googletagmanager.com
-metrics.brightcove.com
-tpc.googlesyndication.com
-aax.amazon-adsystem.com
-eus.rubiconproject.com
-
+# --- REGEX NEEDS TO BE ADDED MANUALLY ---
+# --- ONLY SPECIFIC DOMAINS WILL TAKE EFFECT WHEN USING THIS LIST ---
+# --- YOU HAVE TO ADD REGEX MANUALLY ---
 
 # --- OMDb (IMDb ratings, optional but standard) ---
 omdbapi.com
@@ -48,3 +31,25 @@ omdbapi.com
 # --- Amazon CDN (IMDb posters/rating overlays) ---
 (^|\.)m\.media-amazon\.com$
 (^|\.)images-amazon\.com$
+
+# extra domains that seem to break websites with Admiral
+
+# --- Admiral (ad-block detection) ---
+admiral.com
+getadmiral.com
+cdn.getadmiral.com
+delivery.getadmiral.com
+
+secure-dcr.imrworldwide.com
+static.criteo.net
+px.ads.linkedin.com
+secure-sdk.imrworldwide.com
+prebid-a.rubiconproject.com
+prebid-a.rubiconproject.net.akadns.net
+www.googletagmanager.com
+metrics.brightcove.com
+tpc.googlesyndication.com
+aax.amazon-adsystem.com
+eus.rubiconproject.com
+
+
