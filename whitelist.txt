@@ -1,3 +1,5 @@
+
+
 # --- REGEX NEEDS TO BE ADDED MANUALLY ---
 # --- ONLY SPECIFIC DOMAINS WILL TAKE EFFECT WHEN USING THIS LIST ---
 # --- YOU HAVE TO ADD REGEX MANUALLY ---
@@ -32,6 +34,14 @@ omdbapi.com
 (^|\.)m\.media-amazon\.com$
 (^|\.)images-amazon\.com$
 
+
+#-----------------------
+#Following are manual domains
+#----------------------
+
+sessions.bugsnag.com
+mobile.pipe.aria.microsoft.com
+
 # extra domains that seem to break websites with Admiral
 
 # --- Admiral (ad-block detection) ---
@@ -51,5 +61,6 @@ metrics.brightcove.com
 tpc.googlesyndication.com
 aax.amazon-adsystem.com
 eus.rubiconproject.com
+
 
 
