@@ -8,31 +8,31 @@
 omdbapi.com
 
 # --- OpenSubtitles ---
-(^|\.)rest\.opensubtitles\.org$
-(^|\.)api\.opensubtitles\.org$
+#  (^|\.)rest\.opensubtitles\.org$
+#  (^|\.)api\.opensubtitles\.org$
 
 # --- Trakt ---
-(^|\.)api\.trakt\.tv$
-(^|\.)trakt\.tv$
+#  (^|\.)api\.trakt\.tv$
+#  (^|\.)trakt\.tv$
 
 # --- TMDB ---
-(^|\.)api\.themoviedb\.org$
-(^|\.)image\.tmdb\.org$
-(^|\.)themoviedb\.org$
+#  (^|\.)api\.themoviedb\.org$
+#  (^|\.)image\.tmdb\.org$
+#  (^|\.)themoviedb\.org$
 
 # --- TVDB ---
-(^|\.)api\.thetvdb\.com$
-(^|\.)artworks\.thetvdb\.com$
-(^|\.)thetvdb\.com$
+#  (^|\.)api\.thetvdb\.com$
+#  (^|\.)artworks\.thetvdb\.com$
+#  (^|\.)thetvdb\.com$
 
 # --- Fanart.tv ---
-(^|\.)fanart\.tv$
-(^|\.)assets\.fanart\.tv$
-(^|\.)webservice\.fanart\.tv$
+#  (^|\.)fanart\.tv$
+#  (^|\.)assets\.fanart\.tv$
+#  (^|\.)webservice\.fanart\.tv$
 
 # --- Amazon CDN (IMDb posters/rating overlays) ---
-(^|\.)m\.media-amazon\.com$
-(^|\.)images-amazon\.com$
+#  (^|\.)m\.media-amazon\.com$
+#  (^|\.)images-amazon\.com$
 
 
 #-----------------------
